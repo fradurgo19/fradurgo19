@@ -4,7 +4,7 @@
 *Industrial Engineer  \| Data Analyst*
 
 <em> I am an Industrial engineer from <a href="https://www.ecci.edu.co/"><b>Escuela colombiana de carreras industriales University </b></a>. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠</em>
-Have an experience in the fields the field of Data Analytics, Python Development and Database Handling. Also, interested in the field of Data Science.
+I have xperience in the fields the field of Data Analytics, Python Development and Database Handling. Also, interested in the field of Data Science.
 
 ### Technical Skills
 
