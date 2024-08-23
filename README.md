@@ -4,7 +4,9 @@
 *Industrial Engineer  \| Data Analyst*
 
 <em> I am an Industrial engineer from <a href="https://www.ecci.edu.co/"><b>Escuela colombiana de carreras industriales University </b></a>. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠</em>
-I have experience in the fields the field of Data Analytics, Python Development and Database Handling. Also, interested in the field of Data Science.
+I have developed strong expertise in Power Apps, Power Automate, and Power BI, which I leverage to create powerful, data-driven solutions that enhance business processes and drive decision-making. My experience extends across the fields of Data Analytics, Python Development, and Database Handling.
+
+I am particularly passionate about Data Science and continuously seek to expand my knowledge and skills in this area. My goal is to integrate advanced data techniques with automation and analytics tools to deliver comprehensive solutions that meet and exceed organizational needs.
 
 ### Technical Skills
 
