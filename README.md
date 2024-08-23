@@ -1,7 +1,7 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"> 
 
 ###  👋 My Name is Frank Duran
-*Industrial Engineer  \| Power Platform and Data Analyst*
+*Industrial Engineer Specializing in Power Platform & Data Analytics*
 
 <em> I am an Industrial engineer from <a href="https://www.ecci.edu.co/"><b>Escuela colombiana de carreras industriales University </b></a>. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠</em>
 
